@@ -1,5 +1,7 @@
 site_name: Apunts UD02 — Introducció a Java (DAM)
 site_description: Apunts de la UD02 per a Programació 1r DAM
+docs_dir: 'md/ud02'
+site_dir: 'docs'
 theme:
   name: material
   language: ca
