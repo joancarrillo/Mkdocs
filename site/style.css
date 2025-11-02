@@ -1,0 +1,19 @@
+/* Color de fons del títol principal */
+.md-header {
+  background-color: #2a8d3f; /* blau personalitzat */
+}
+
+/* Color del text del títol */
+.md-header__title {
+  color: white;
+}
+
+/* Canvi de color dels enllaços */
+a {
+  color: #FF6600;
+}
+
+/* Color del fons de pàgina */
+.md-content {
+  background-color: #fafafa;
+}

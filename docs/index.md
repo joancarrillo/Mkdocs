@@ -2,6 +2,9 @@
 
 # Apunts UD02 — Programació 1r DAM
 
+!!! info "Contingut"
+    Contingut del tema 2.
+
 En aquest lloc tens els apunts de la **UD02** dividits en capítols:
 
 - [UD02 – Introducció a Java :](ud02/01-introduccio-a-java.md)

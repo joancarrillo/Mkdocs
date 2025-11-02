@@ -5,6 +5,17 @@
 
 <small class="small">UD02 · DAM · 2025</small>
 
+### Diagrama de flux
+
+``` mermaid
+graph TD;
+  A[Inici] --> B{Decisió}
+  B -- Sí --> C[Acció]
+  B -- No --> D[Altres accions]
+  C --> E[Fins aquí]
+  D --> E[Fins aquí]
+```
+
 
 ### if / else
 ```java
